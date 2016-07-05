@@ -1,71 +1,120 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Programmer",
+    "name": "Mangirdas Judeikis",
+    "label": "XaaS Engineer",
     "picture": "",
-    "email": "john@gmail.com",
-    "phone": "(912) 555-4321",
-    "website": "http://johndoe.com",
-    "summary": "A summary of John Doe...",
+    "email": "mangirdas[at]judeikis[dot].lt",
+    "phone": "+44 (0)7401548635",
+    "website": "http://judeikis.lt",
+    "summary": "I always trying to move forward, develop skills in wider range of technologies. I live according rule: 'Everything is possible, the impossible just takes a little longer'. If I don’t know something, I can learn it. Working in different areas helped me build wide range of skills. From Project Management, Service Operations and IT. I consider Infrastructure and Hosting technologies my core strengths. ",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "London",
+      "countryCode": "UK",
+      "region": "UK"
     },
     "profiles": [{
-      "network": "Twitter",
-      "username": "john",
-      "url": "http://twitter.com/john"
+      "network": "Linkedin",
+      "username": "mangirdas",
+      "url": "https://www.linkedin.com/in/mangirdas"
     },
     {
-      "network": "FB",
-      "username": "fb",
-      "url": "http://fb.com/john"
-    }]
+      "network": "Facebook",
+      "username": "mangirdaz",
+      "url": "http://fb.com/mangirdaz"
+    },
+    {
+      "network": "Github",
+      "username": "Mangirdaz",
+      "url": "http://github.com/mangirdaz"
+    },
+    {
+      "network": "Twitter",
+      "username": "Mangirdas",
+      "url": "http://twitter.com/Mangirdas"
+    }
+    ]
   },
   "work": [{
-    "company": "Company",
-    "position": "President",
-    "website": "http://company.com",
-    "startDate": "2013-01-01",
-    "endDate": "2014-01-01",
-    "summary": "Description...",
+    "company": "VGTU, Computing laboratoy",
+    "position": "Technician",
+    "website": "http://el.vgtu.lt",
+    "startDate": "2011-09-01",
+    "endDate": "2012-09-01",
+    "summary": "Responsible for All faculty computer networks, server’s infrastructure, internal learning system maintenance. One of the biggest achievements during my short time in this role was Faculty infrastructure migration from physical server to virtual ones (ESX). ",
     "Highlights": [
-      "Started the company",
-      "Awesome"
+      "Virtualized Infrastructure",
+      "Reduced infrastrcture"
     ]
   },
   {
-    "company": "Company",
-    "position": "President",
-    "website": "http://company.com",
-    "startDate": "2013-01-01",
-    "endDate": "2014-01-01",
-    "summary": "Description...",
+    "company": "Barclays",
+    "position": "Barclays Future Leader Development Programme",
+    "website": "https://www.home.barclays/about-barclays/around-the-world/lithuania.html",
+    "startDate": "2012-09-01",
+    "endDate": "2014-09-01",
+    "summary": "Programme consists of 4 rotations, each 6 month. Programme creates exponential career development possibilities for talented people to reach their goals towards future career. It provides wide range of training's and couching possibilities to help grow as a person within organization.",
     "highlights": [
-      "Started the company",
-      "Awesome"
+      "Rotation 1: Deputy of Windows Server Engineering Lead",
+      "Rotation 2: Junior Project manager, Barclayscard",
+      "Rotation 3: Support Analyst, ETL",
+      "Rotation 4: Junior Data Warehouse developer, ELT"
     ]
-  }],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "website": "http://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description...",
+  },
+  {
+    "company": "vaziuojuvezu.lt",
+    "position": "Co-Founder",
+    "website": "www.vaziuojuvezu.lt",
+    "startDate": "2012-02-02",
+    "endDate": "",
+    "summary": "Creator and Administrator of one of the biggest car sharing community in Lithuania. With almost 30k Participants within Facebook and active community in www.vaziuojuvezu.lt we are biggest this kind of orientated community in Lithuania. We are one-stop-shop for all car share travelers.",
     "highlights": [
-      "Awarded 'Volunteer of the Month'"
+      "Co-Founder",
+      "Web Crowler"
+    ]
+  },
+  {
+    "company": "Barclays",
+    "position": "Java Application platform engineer",
+    "website": "https://www.home.barclays/about-barclays/around-the-world/lithuania.html",
+    "startDate": "2014-09-01",
+    "endDate": "2015-08-31",
+    "summary": "Working with Java Hosting platforms like JBoss, TomCat (JBoss EWS), WebLogic in standalone and cloud (OpenShift PaaS, OpenStack) environments. Developed cartridges for aPaaS for Java application, static web content hosting platforms. Integrated them with wide variety of external products in could environment - HAProxy, Databases connectivity capability within aPaaS (MySQL, DB2, Oracle, etc), NFS within SELinux. Monitoring agent’s integration to these platforms for central monitoring capabilities, etc. Integrated CI&CD within development process.",
+    "highlights": [
+      "Openshift V2,V3"
+    ]
+  },
+  {
+    "company": "Barclays",
+    "position": "PaaS Engineer",
+    "website": "https://www.home.barclays/about-barclays/around-the-world/lithuania.html",
+    "startDate": "2015-09-01",
+    "endDate": "2016-06-01",
+    "summary": "Cloud native hosting platforms development to host Container based technology in a resilient and sustainable way. Create integration's with external systems for role based access, logging, and management. Define best practices for developer’s community to consume technologies hosted on cloud based platforms. Work on end-2-end solutions - from design to implementation.",
+    "highlights": [
+      "Openshift V2,V3"
+    ]
+  },
+  {
+    "company": "Deutsche Bank",
+    "position": "Technical Specialist/PaaS Engineer",
+    "website": "https://www.db.com/unitedkingdom/",
+    "startDate": "2016-06-13",
+    "endDate": "2016-06",
+    "summary": "Design, architect and implement PaaS platform to existing internal cloud platform. Work with existing architects and developers communities to create sustainable, scalable and resilient extension of the existent internal cloud offering to host container based workloads.",
+    "highlights": [
+      "PAAS Desing",
+      "Architecture of Internal Cloud",
+      "Implementation"
     ]
   }],
   "education": [{
-    "institution": "University",
-    "area": "Software Development",
+    "institution": "Vilnius Gediminas Technical University",
+    "area": "Telecommunication engineering",
     "studyType": "Bachelor",
-    "startDate": "2011-01-01",
-    "endDate": "2013-01-01",
+    "startDate": "2009-09-01",
+    "endDate": "2013-08-01",
     "gpa": "4.0",
     "courses": [
       "DB1101 - Basic SQL"
@@ -85,26 +134,42 @@
     "summary": "Description..."
   }],
   "skills": [{
-    "name": "Web Development",
-    "keywords": "HTML, CSS, Javascript"
+    "name": "Datawarehouse",
+    "keywords": "SQL, MySQL, Teradata, Informatica"
   },{
-    "name": "Cloud",
-    "keywords": "HTML, CSS, Javascript"
+    "name": "Web",
+    "keywords": "JavaScript, Apache, JBoss, EWS, HAProxy, AngularJS, Ionic, REST API"
+  },{
+    "name": "Service Managment",
+    "keywords": "ITIL, Agile, DevOps, SRE"
+  },
+  {
+    "name": "Infrastructure",
+    "keywords": "RHEL, Docker, k8s, Openshift, S2I, Ansible, Chef"
+  },
+  {
+    "name": "Code",
+    "keywords": "Python, Java, PHP, Shell, GO"
   }
   ],
   "languages": [{
     "name": "English",
-    "level": "Native speaker"
+    "level": "Good"
+  },
+  { 
+    "name": "Lithuanian",
+    "level": "Native"
+  },
+  {
+    "name":"Russian",
+    "level":"понимаю"
   }],
   "interests": [{
-    "name": "Wildlife",
+    "name": "Motorcycles",
     "keywords": [
-      "Ferrets",
-      "Unicorns"
+      "Enduro",
+      "Street"
     ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference..."
   }]
+  
 }

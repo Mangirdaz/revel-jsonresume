@@ -1,7 +1,7 @@
 package controllers
 
 import "github.com/revel/revel"
-import "mangirdaz/jsonresume"
+import "github.com/mangirdaz/jsonresume"
 
 //App revel  struct  controler
 type App struct {
